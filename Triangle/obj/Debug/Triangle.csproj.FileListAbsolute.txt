@@ -1,0 +1,9 @@
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\bin\Debug\Triangle.exe.config
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\bin\Debug\Triangle.exe
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\bin\Debug\Triangle.pdb
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\obj\Debug\Triangle.exe
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\obj\Debug\Triangle.pdb
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\bin\Debug\nunit.framework.dll
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\bin\Debug\nunit.framework.xml
+G:\2nd Semester\QA Assignments\Triangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CopyComplete
